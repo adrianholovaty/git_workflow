@@ -125,7 +125,7 @@ When you're ready to merge the branch back into master:
 	git diff master ajax_fallback
 
 
-#LOCAL BRANCHES
+# LOCAL BRANCHES
 
 Generally all of our branches are remote, but if you want to create a local one,
 a few things are different -- namely to use "git rebase master" when you pull
