@@ -1,5 +1,5 @@
 
-# Imporve your git skills the cool way
+# Improve your git skills the cool way
 
 # BASICS
 
